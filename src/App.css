@@ -1,0 +1,11 @@
+.App{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    column-gap: 80px;
+    background-color: gray;
+    padding: 20px;
+    max-width: 100%; width: 100%;
+    min-height: 100vh;
+    border-radius: 4px;
+}

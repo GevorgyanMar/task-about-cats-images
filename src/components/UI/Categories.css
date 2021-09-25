@@ -1,0 +1,25 @@
+.menu-block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-item li {
+    list-style: none;
+    font-size: 16px;
+    color: black;
+    font-weight: 400;
+}
+
+.images-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.images {
+    width: 200px;
+    height: 200px;
+}
+
+.btn button {
+    margin: 0 10px;
+}

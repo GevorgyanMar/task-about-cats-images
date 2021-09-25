@@ -1,0 +1,15 @@
+.menu-block__item-butn {
+    background-color: #FFFFFF;
+    border: 1px dotted rgba(0, 0, 0, 0.7); border-radius: 4px;
+    max-width: 100px; width: 100%;
+    padding: 4px;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.2s linear;
+    margin-bottom: 6px;
+    color: #000;
+}
+.menu-block__item-butn:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #FFFFFF;
+}
